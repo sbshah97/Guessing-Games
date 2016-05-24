@@ -1,4 +1,4 @@
-alert("Welcome to the Guessing Game number.");
+alert("Welcome to the Number Guessing Game.");
 
 
 num_1 = Math.floor((Math.random()*100)+1);
