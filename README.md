@@ -3,32 +3,32 @@
 [![Latest Stable Version](https://poser.pugx.org/salman-bhai/Guessing-Games/v/stable)](https://packagist.org/packages/salman-bhai/Guessing-Games)
 [![License](https://poser.pugx.org/salman-bhai/Guessing-Games/license)](https://packagist.org/packages/salman-bhai/Guessing-Games) [![Total Downloads](https://poser.pugx.org/salman-bhai/Guessing-Games/downloads)](https://packagist.org/packages/salman-bhai/Guessing-Games)
 
-##Introduction
+## Introduction
 
-This is a simple game of guessing numbers.
+- This is a simple game of guessing numbers.
 
-###Why?
+### Why?
 
-Because you can learn a lot about javascript, especially if you are a beginner developer
+- Because you can learn a lot about javascript, especially if you are a beginner developer
 
-###What can I do with this?
+### What can I do with this?
 
-As well as have some fun you can study too.
+- As well as have some fun you can study too.
 
-##Requirements
+## Requirements
 
 * any web browser
 
-##Instructions for use?
+## Instructions for use?
 
 1. Select a number between * to *
 2. Receive the result of divination
 
-##How does it work?
+## How does it work?
 
 The code snippet below makes all the magic.
 
-It is located on line 4 of the js file **GuessingNumber.js**
+It is located on **line 4** of the js file **GuessingNumber.js**
 
 ```javascript
 num_1 = Math.floor((Math.random()*100)+1);
@@ -47,12 +47,12 @@ if((num > my_number_here)||(num < 0))
 
 ##Questions?
 
-Open a [Issue](https://github.com/salman-bhai/Guessing-Games/issues) 
+- Open a [Issue](https://github.com/salman-bhai/Guessing-Games/issues) 
 
 ##License
 
-MIT
+- The software is registered under the [MIT License](https://github.com/salman-bhai/Guessing-Games/blob/master/LICENSE.txt)
 
 ##Contribute
 
-Contribute to the community, feel free to contribute, make a fork!!
+- Contribute to the community, feel free to contribute, make a fork!!
