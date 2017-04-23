@@ -17,10 +17,3 @@ git commit -m "<Your commit message>"
 5. Once you are ready to push your changes, you can do so using `git push origin <your-name>-patch`.
 
 6. After that go to the forked repository and send a Pull Request to the Guessing Game repository. In the Pull Request description, kindly mention all the changes that you've done!
-
-## Benchmarks
-
-We have members with varying experiences in different programming languages! Want to contribute? Amazing :) Please follow guidelines as below:
-
-* Benchmark your programs against a test suite. We will be adding the module soon. Comparing different implementations hence becomes easier.
-* All code should have atleast 80% code coverage. You can use online tools to check the same. Test cases should be elaborate and should cover corner cases.
